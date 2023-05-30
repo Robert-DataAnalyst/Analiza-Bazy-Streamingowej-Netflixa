@@ -12,11 +12,9 @@ USE [Netflix Analiza]
 SELECT *
 FROM dbo.Netflix_G³ówny
 
---PROSZÊ ZWRÓCIÆ UWAGÊ--
---Poni¿szy kod czyszczenia danych mo¿e nie dzia³aæ zgodnie z oczekiwaniami w tym pliku SQL,
---poniewa¿ tabela zosta³a ju¿ przez niego zmodyfikowana
---Aby sprawdziæ dzia³anie ca³ego kodu, polecam utworzenie nowego pliku SQL, zaimportowanie pliku Excela, a nastêpnie 
---uruchomienie kodu. Wszystko poni¿ej sekcji Obliczenia dzia³a poprawnie. 
+--UWAGA--
+--Aby sprawdziæ dzia³anie ca³ego kodu, zalecam utworzenie nowego pliku SQL, zaimportowanie pliku Excel, a nastêpnie 
+--uruchomienie kodu.
 
 ---------CZYSZCZENIE DANYCH---------
 
